@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    font-family: cursive;
+}
+
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: serif;
+    font-size: 20px;
+    font-size: 20px;
+
+}
+
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links:hover {
+    background-color: lightblue;
+}
+
+
+h3 {
+    margin-top: 120px;
+}
+
+section {
+    scroll-behavior: smooth;
+}
+
+p {
+    font-family: inherit;
+}
+
+#My favourite books {
+    background-image: linear-gradient(red,green)
